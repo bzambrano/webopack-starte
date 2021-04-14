@@ -1,0 +1,12 @@
+/* Este es el estilo del main */
+
+html, body {
+    background-color: #000111;
+}
+
+#logo-img{
+    height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
+}
